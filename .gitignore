@@ -1,6 +1,7 @@
 test.ipynb
 dataset
 ogbn_proteins_subgraph.pt
+.venv/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
